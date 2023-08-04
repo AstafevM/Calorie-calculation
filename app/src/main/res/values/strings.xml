@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calorie Calculation</string>
+    <string name="age">Возраст</string>
+    <string name="height">Рост</string>
+    <string name="weight">Вес</string>
+    <string name="gender">Пол</string>
+    <string name="fatPercent">Процент жира</string>
+    <string name="sleep">Покой</string>
+    <string name="light_activity">Лёгкая активность</string>
+    <string name="light_work">Лёгкий труд</string>
+    <string name="middle_hard_work">Средний/тяжёлый труд</string>
+    <string name="hard_physical_work">Тяжёлый физический труд</string>
+    <string name="very_hard_physical_work">Особо тяжёлый физич. труд</string>
+    <string name="lifestyle">Образ жизни</string>
+    <string name="osnovnoy">Основной обмен</string>
+    <string name="obshiy">Общий обмен</string>
+    <string name="proteins">Белки</string>
+    <string name="fats">Жиры</string>
+    <string name="carbohydrates">Углеводы</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="nul">0</string>
+    <string name="ContentDescription">nope</string>
+    <string name="message">Дневная активность на 24 часа</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.CalorieCalculation" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+    <style name="screen">
+        <item name="android:background">@drawable/gradient_day</item>
+    </style>
+
+    <style name="containers">
+        <item name="android:background">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:background">#E8DDDD</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="button">
+        <item name="android:background">@drawable/custom_button</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
